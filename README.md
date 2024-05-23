@@ -1,2 +1,2 @@
-# algorithm code
+# sample code
 coding record
